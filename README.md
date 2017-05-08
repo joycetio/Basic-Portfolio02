@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HW-Basic-Portfolio
 
 ##Live Link: 
@@ -60,4 +59,3 @@ a:hover {
 }
 ````
 
->>>>>>> master
